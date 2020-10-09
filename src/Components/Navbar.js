@@ -11,12 +11,13 @@ const link = {
   fontFamily: 'Secular One',
   fontsize: '60',
   textAlign: 'right',
+  position: 'right',
 }
  
 class Navbar extends React.Component {
   render() {
     return (
-      <div>
+      <div id="navbar">
         <NavLink
           to="/"
           exact

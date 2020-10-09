@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -33,7 +34,7 @@ h4{
 }
 
 h1#About {
-  font-size: 70px;
+  font-size: 80px;
 
 
   position: absolute; left:-59px; top:-60px;
@@ -42,9 +43,23 @@ h1#About {
 }
 
 h2#abouth2{
-  font-size: 70px;
+  font-size: 50px;
 
-  position: absolute; left:50px; top:150px;
+  position: absolute; left:59px; top:165px;
+  color: white;
 
 
+}
+
+p#para1{
+
+  position: absolute; left:60px; top:300px;
+  color: whitesmoke;
+  font-weight: 200;
+}
+
+div#navbar {
+  position: absolute; right: 30px; top: 20px;
+  font-size: 20
+  px;
 }
