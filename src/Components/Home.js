@@ -7,7 +7,7 @@ class Home extends React.Component {
         return(
             <div>
                 <h1>Thee Inkers</h1>
-                <h4> Olde tattoo artists</h4>
+                <h4> Olde tattoo artists.</h4>
             </div>
         )
     }
