@@ -6,7 +6,7 @@ class Home extends React.Component {
     render(){
         return(
             <div>
-                <h2>Thee Inkers</h2>
+                <h1>Thee Inkers</h1>
                 <h4> Olde tattoo artists</h4>
             </div>
         )
