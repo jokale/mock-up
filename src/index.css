@@ -60,12 +60,17 @@ p#para1{
 
 div#navbar {
   position: absolute; right: 30px; top: 20px;
-  font-size: 20
-  px;
+  font-size: 20px;
 }
 
 
 
 iframe#map{
-  position: absolute; right: 50px; top: 1100px;
+  position: fixed;  right: 500px; top: 500px;
+  border: 3px;
+}
+
+h4#tag1{
+  position: fixed; left: 700px; top: 60px;
+  font-size: xx-large;
 }
