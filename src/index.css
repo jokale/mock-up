@@ -63,3 +63,9 @@ div#navbar {
   font-size: 20
   px;
 }
+
+
+
+iframe#map{
+  position: absolute; right: 50px; top: 1100px;
+}
