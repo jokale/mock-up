@@ -67,7 +67,7 @@ div#navbar {
 
 
 iframe#map{
-  position: fixed;  right: 500px; top: 500px;
+  position: fixed;  right: 450px; top: 280px;
   border: 3px;
 }
 
