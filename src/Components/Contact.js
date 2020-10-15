@@ -20,7 +20,7 @@ class Contact extends React.Component {
                     <br></br> <input size ='70' placeholder='Email?'></input><br></br>
                     <br></br><h4 id="tag3"><label>Message</label></h4><br></br>
                     <textarea id="idea" size='70'rows="7" cols="70" placeholder='What is your idea?'/> <br></br>
-                    <button type="submit">Submit</button><br></br>
+                    <br></br><button type="submit">Submit</button><br></br>
                 </form>
 
 

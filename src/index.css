@@ -138,9 +138,18 @@ h2#contact{
 
 }
 
+button{
+  padding: 14px 20px;
+  margin: 8px 0;
+  border-radius: 8px;
+  width: 580px;
+}
+
 
 button[type=submit]:hover {
   background-color: rgb(110, 99, 99);
+  padding: 10px 20px;
+  margin: 8px 0;
 }
 
 
