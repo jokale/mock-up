@@ -75,3 +75,22 @@ h4#tag1{
   position: fixed; left: 700px; top: 60px;
   font-size: xx-large;
 }
+
+
+h2#location{
+  font-size: 50px;
+
+  position: absolute; left:390px; top:160px;
+  color: white;
+
+
+}
+
+h1#location {
+  font-size: 80px;
+
+
+  position: absolute; left:-59px; top:-60px;
+
+
+}
