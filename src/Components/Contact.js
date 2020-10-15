@@ -1,4 +1,5 @@
 import React from 'react'
+// import { hydrate } from 'react-dom'
 
 
 class Contact extends React.Component {
@@ -10,7 +11,7 @@ class Contact extends React.Component {
                 <h2 >Contact Us</h2>
                 <center>
                     <br></br><br></br>
-                <form>
+                <form id="form">
                     <br></br>
                     
                     <h4 id="tag1"><label>Name</label></h4><br></br>
@@ -21,10 +22,8 @@ class Contact extends React.Component {
                     <textarea id="idea" size='70' placeholder='What is your idea?'/> <br></br>
                     <button type="submit">Submit</button><br></br>
                 </form>
-                
-                <iframe  id= "map"title="map" src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d4965.833892289461!2d-0.1038361!3d51.5147397!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1602696558812!5m2!1sen!2suk" width="600" height="450" frameborder="0"  allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-                
+
                 </center>
             </div>
         )
