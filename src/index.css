@@ -124,3 +124,31 @@ h1#contact {
 form{
   position: absolute; right: 40px; top: 200px;
 }
+
+
+h2#contact{
+
+  position: absolute; left: 159px; top: 155px;
+  font-family: 'Secular One', sans-serif;
+  color: whitesmoke;
+  font-weight: 800;
+  font-size: xx-large;
+  size: 1500%;
+
+
+}
+
+
+button[type=submit]:hover {
+  background-color: rgb(110, 99, 99);
+}
+
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid rgb(46,23,3);
+}
