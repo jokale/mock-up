@@ -72,22 +72,22 @@ iframe#map{
 }
 
 h4#tag1{
-  position: absolute; left: 0px; top: -40px;
-  font-size: xx-large;
+  position: absolute; left: 0px; top: 10px;
+  font-size: large;
   font-weight: 20;
   color: whitesmoke;
 }
 
 h4#tag2{
-  position: absolute; left: 0px; top: 40px;
-  font-size: xx-large;
+  position: absolute; left: 0px; top: 115px;
+  font-size: large;
   font-weight: 20;
   color: whitesmoke;
 }
 
 h4#tag3{
-  position: absolute; left: 0px; top: 110px;
-  font-size: xx-large;
+  position: absolute; left: 0px; top: 200px;
+  font-size: large;
   font-weight: 20;
   color: whitesmoke;
 }
