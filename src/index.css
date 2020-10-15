@@ -72,9 +72,26 @@ iframe#map{
 }
 
 h4#tag1{
-  position: fixed; left: 700px; top: 60px;
+  position: absolute; left: 0px; top: -40px;
   font-size: xx-large;
+  font-weight: 20;
+  color: whitesmoke;
 }
+
+h4#tag2{
+  position: absolute; left: 0px; top: 40px;
+  font-size: xx-large;
+  font-weight: 20;
+  color: whitesmoke;
+}
+
+h4#tag3{
+  position: absolute; left: 0px; top: 110px;
+  font-size: xx-large;
+  font-weight: 20;
+  color: whitesmoke;
+}
+
 
 
 h2#location{
@@ -93,4 +110,17 @@ h1#location {
   position: absolute; left:-59px; top:-60px;
 
 
+}
+
+h1#contact {
+  font-size: 80px;
+
+
+  position: absolute; left:-59px; top:-60px;
+
+
+}
+
+form{
+  position: absolute; right: 40px; top: 200px;
 }
