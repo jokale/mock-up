@@ -7,6 +7,7 @@ import Navbar from './Components/Navbar'
 import Home from './Components/Home'
 import Contact from './Components/Contact'
 import About from './Components/About'
+import Location from './Components/Location'
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 
@@ -19,6 +20,8 @@ ReactDOM.render(
       <Route exact path="/" component={Home} />
       <Route exact path="/about" component={About} />
       <Route exact path="/contact" component={Contact} />
+      <Route exact path="/location" component={Location} />
+
   
   </Router>
   ,

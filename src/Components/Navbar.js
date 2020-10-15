@@ -42,6 +42,14 @@ class Navbar extends React.Component {
             background: '#A2AFB0'
           }}
         >Contact</NavLink>
+          <NavLink
+          to="/location"
+          exact
+          style={link}
+          activeStyle={{
+            background: '#A2AFB0'
+          }}
+        >Location</NavLink>
       </div>
     )
   }
