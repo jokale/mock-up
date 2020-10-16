@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from './Footer'
 
 
 class About extends React.Component {
@@ -26,6 +27,7 @@ class About extends React.Component {
                 
                 
                 </p>
+                <Footer/>
             </div>
         )
     }

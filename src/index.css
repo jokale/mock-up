@@ -163,3 +163,10 @@ input {
   border: none;
   border-bottom: 2px solid rgb(46,23,3);
 }
+
+div#footer{
+  border-bottom: 2px solid rgb(46,23,3);
+  color: whitesmoke;
+  background-color: rgb(105, 81, 81);
+  position:  relative; bottom: -900px;
+}
