@@ -128,12 +128,14 @@ form{
 
 h2#contact{
 
-  position: absolute; left: 159px; top: 155px;
+  position: absolute; left: 50px; top: 155px;
   font-family: 'Secular One', sans-serif;
   color: whitesmoke;
   font-weight: 800;
   font-size: xx-large;
-  size: 1500%;
+  /* size: 1500%; */
+  font-size: 90px;
+
 
 
 }
