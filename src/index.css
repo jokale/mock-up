@@ -21,7 +21,7 @@ h1 {
   padding: 50px;
   margin: 70px;
 
-  -webkit-text-fill-color: rgb(110, 99, 99); /* Will override color (regardless of order) */
+  -webkit-text-fill-color: #DE9967; /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
 }
