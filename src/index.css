@@ -21,7 +21,7 @@ h1 {
   padding: 50px;
   margin: 70px;
 
-  -webkit-text-fill-color: #DE9967; /* Will override color (regardless of order) */
+  -webkit-text-fill-color: #2E1300; /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
 }
@@ -177,6 +177,8 @@ a:link {
   background-color: transparent;
   text-decoration: underline;
   font-size: large;
+  font-weight: 600;
+  
 
 }
 
