@@ -172,4 +172,8 @@ div#footer{
   position:  relative; bottom: -900px;
 }
 
-
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
