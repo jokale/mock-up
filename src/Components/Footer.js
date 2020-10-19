@@ -4,12 +4,19 @@ class Footer extends React.Component {
     render(){
         return(
             <div id="footer"> 
-                <h3>Hello</h3> <br></br>
-                <br></br> <h5>Instagram</h5> <br></br>
-                <br></br><h5>Twitter</h5><br></br>
+                <br></br>
+                <a href="url">Instagram</a> <br></br>
+                <a href="url">Twitter</a><br></br><br></br>
+                <a href="url">Terms and Conditions </a><br></br>
+                <a href="url">Privacy policy </a>
+
+                <br></br>
+                <h6>Joanna E Kalema Applications </h6>
 
 
-                <h5>Terms and Conditions</h5>
+
+                
+        
 
             </div>
         )

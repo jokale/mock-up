@@ -1,5 +1,6 @@
 import React from 'react'
 // import { hydrate } from 'react-dom'
+import Footer from './Footer'
 
 
 class Contact extends React.Component {
@@ -25,6 +26,7 @@ class Contact extends React.Component {
 
 
                 </center>
+                <Footer/>
             </div>
         )
     }
