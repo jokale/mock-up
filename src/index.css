@@ -173,7 +173,28 @@ div#footer{
 }
 
 a:link {
-  color: green;
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: underline;
+
+}
+
+a:visited {
+  color: rgb(37, 21, 17);
   background-color: transparent;
   text-decoration: none;
+  text-decoration: underline;
+
+}
+
+a:hover {
+  color:white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: burlywood;
+  background-color: transparent;
+  text-decoration: underline;
 }
