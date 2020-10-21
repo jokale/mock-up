@@ -1,6 +1,8 @@
 import React from 'react'
 // import { hydrate } from 'react-dom'
 import Footer from './Footer'
+// import Email from './Email.png'
+import Mail from './Mail.png'
 
 
 class Contact extends React.Component {
@@ -12,6 +14,8 @@ class Contact extends React.Component {
                 <h2 id="contact">Contact Us</h2>
                 <center>
                     <br></br><br></br>
+
+                    <img  id="mail"src={Mail}/>
                 <form id="form">
                     <br></br>
                     
