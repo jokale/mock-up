@@ -211,4 +211,17 @@ img#mail{
 
 
 
-h6#
+h6#location1{
+  position: absolute; left: 1000px; top: 400px;
+  font-size: xx-large;
+  color: antiquewhite;
+
+}
+
+h6#location2{
+  position: absolute; left: 1000px; top: 250px;
+  font-size: xx-large;
+  color: antiquewhite;
+
+
+}
