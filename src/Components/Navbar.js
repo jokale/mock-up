@@ -23,7 +23,7 @@ class Navbar extends React.Component {
           exact
           style={link}
           activeStyle={{
-            background: '#A2AFB0'
+            background: '#834105'
           }}
         >Home</NavLink>
         <NavLink
@@ -31,7 +31,7 @@ class Navbar extends React.Component {
           exact
           style={link}
           activeStyle={{
-            background: '#A2AFB0'
+            background: '#834105'
           }}
         >About</NavLink>
         <NavLink
@@ -39,7 +39,7 @@ class Navbar extends React.Component {
           exact
           style={link}
           activeStyle={{
-            background: '#A2AFB0'
+            background: '#834105'
           }}
         >Contact</NavLink>
           <NavLink
@@ -47,7 +47,7 @@ class Navbar extends React.Component {
           exact
           style={link}
           activeStyle={{
-            background: '#A2AFB0'
+            background: '#834105'
           }}
         >Location</NavLink>
       </div>
