@@ -5,7 +5,7 @@ const link = {
   width: '10px',
   padding: '1px',
   margin: '0 20px 7px',
-  background: '#B1A2A2',
+  background: '#7C4F2C',
   textDecoration: 'none',
   color: 'white',
   fontFamily: 'Secular One',
